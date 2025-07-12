@@ -44,8 +44,8 @@ This project uses the **German Traffic Sign Recognition Benchmark (GTSRB)** data
 
 ## 📷 Sample Prediction
 
-> **Actual Label**: 14 (Stop Sign)  
-> **Predicted Label**: 14 ✅  
+> **Actual Label**: 1 (30 speed limit
+> **Predicted Label**: 1 ✅  
 ---
 
 ## 💾 How to Use
